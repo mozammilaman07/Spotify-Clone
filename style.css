@@ -1,11 +1,8 @@
 body{
- /* <uniquifier>: Use a unique and descriptive class name
- <weight>: Use a value from 100 to 900 */
+ 
 
   font-family: "Montserrat", serif;
-  /* font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal; */
+ 
   background-color: #000;
   color: #fff;
   overflow: hidden;
